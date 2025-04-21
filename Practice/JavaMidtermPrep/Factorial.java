@@ -1,3 +1,4 @@
+package JavaMidtermPrep;
 import java.util.*;
 
 public class Factorial{
